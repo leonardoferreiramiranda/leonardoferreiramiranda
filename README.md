@@ -8,10 +8,11 @@ Ola! Me chamo Leonardo, estou cursando Análise e Desenvolvimento de Sistemas e 
 <strong>Minhas Habilidades:</strong>
 <br>
 <br>
-<strong>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<div>
+  <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </div>
   <br>
   <br>
   <br>
@@ -25,7 +26,6 @@ Ola! Me chamo Leonardo, estou cursando Análise e Desenvolvimento de Sistemas e 
 <br>
 <br>
 
-<div align="center">
-<strong>Vamos nos conectar!?</strong><br>
-<a href="https://www.linkedin.com/in/leonardo-ferreira-91a731240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+Vamos nos conectar!?<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ferreira-91a731240/)
