@@ -22,5 +22,4 @@ Ola! Me chamo Leonardo, estou cursando Análise e Desenvolvimento de Sistemas e 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoferreiramiranda&show_icons=true&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoferreiramiranda&layout=compact&langs_count=16&theme=dark"/>
 
-<div align="center">
  <a href="https://www.linkedin.com/in/leonardo-ferreira-91a731240/" target="_blank"><strong>Vamos nos conectar!?</strong>
