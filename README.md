@@ -2,13 +2,13 @@
 
 ###
 
-<h4 align="left">Olá! Meu nome é Leonardo e sou um desenvolvedor mobile usando React Native. Como profissional, tenho como objetivo sempre buscar soluções criativas e eficientes para os desafios do mundo digital.
+<h4 align="left">Olá! Meu nome é Leonardo e atualmente trabalho como um desenvolvedor mobile front-end utilizando react native. Como profissional, tenho como objetivo sempre buscar soluções criativas e eficientes para os desafios do mundo digital.
 <br>
 <br>
 Atualmente, uso a Play Store como meu portfolio e estou sempre buscando novos desafios para aperfeiçoar minhas habilidades e crescer profissionalmente.
 <br>
 <br>
-Além disso, estou cursando Análise e Desenvolvimento de Sistemas na UNIP e também dedico parte do meu tempo para estudar inglês.
+Além dos meus estudos em Análise e Desenvolvimento de Sistemas na UNIP e no meu tempo dedicado ao estudo de inglês, decidi também me aventurar no mundo do desenvolvimento de backend. Para isso, escolhi iniciar meus estudos em Java e estou gostando muito dessa nova empreitada. Tenho me dedicado ao aprendizado da linguagem e estou animado com todo o conhecimento que tenho adquirido.
 <br>
 <br>
 Aqui no meu Github, você poderá encontrar todos os meus projetos e acompanhar minha evolução como desenvolvedor. Fico à disposição para qualquer pergunta ou colaboração! Obrigado por visitar meu perfil.</h4>
