@@ -2,16 +2,19 @@
 
 ###
 
-<h4 align="left">Olá! Meu nome é Leonardo e atualmente trabalho como um desenvolvedor mobile front-end utilizando react native. Como profissional, tenho como objetivo sempre buscar soluções criativas e eficientes para os desafios do mundo digital.
+<h4 align="left">Olá! Meu nome é Leonardo e sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou trabalhando com React Native para desenvolvimento de aplicativos móveis.
 <br>
 <br>
-Atualmente, uso a Play Store como meu portfolio e estou sempre buscando novos desafios para aperfeiçoar minhas habilidades e crescer profissionalmente.
+Tenho experiência em desenvolvimento em React Native e busco sempre me atualizar e aprimorar minhas habilidades para oferecer soluções eficientes e inovadoras. Estou cursando Análise e Desenvolvimento de Sistemas na UNIP e dedicando tempo para estudar inglês, a fim de ampliar minhas possibilidades de comunicação e aprimorar minhas habilidades de contribuição para o sucesso da empresa que me contratar.
 <br>
 <br>
-Além dos meus estudos em Análise e Desenvolvimento de Sistemas na UNIP e no meu tempo dedicado ao estudo de inglês, decidi também me aventurar no mundo do desenvolvimento de backend. Para isso, escolhi iniciar meus estudos em Java e estou gostando muito dessa nova empreitada. Tenho me dedicado ao aprendizado da linguagem e estou animado com todo o conhecimento que tenho adquirido.
+Utilizo a Play Store como meu portfólio, onde você pode encontrar alguns dos meus projetos mais recentes de desenvolvimento de aplicativos móveis. Além disso, mantenho projetos relacionados ao React Native em meu GitHub: https://github.com/leonardoferreiramiranda.
 <br>
 <br>
-Aqui no meu Github, você poderá encontrar todos os meus projetos e acompanhar minha evolução como desenvolvedor. Fico à disposição para qualquer pergunta ou colaboração! Obrigado por visitar meu perfil.</h4>
+Se você está procurando por um profissional dedicado e apaixonado por tecnologia, com habilidades em React Native, entre em contato comigo! Estou sempre disposto a descobrir novos desafios e contribuir para o sucesso da sua empresa.
+<br>
+<br>
+Aqui no meu Github, você poderá encontrar todos os meus projetos e acompanhar minha evolução como desenvolvedor.</h4>
 <br>
 <br>
 <br>
