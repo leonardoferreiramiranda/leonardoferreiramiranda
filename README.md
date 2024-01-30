@@ -8,7 +8,7 @@
 Tenho experiência em desenvolvimento em React Native e busco sempre me atualizar e aprimorar minhas habilidades para oferecer soluções eficientes e inovadoras. Estou cursando Análise e Desenvolvimento de Sistemas na UNIP e dedicando tempo para estudar inglês, a fim de ampliar minhas possibilidades de comunicação e aprimorar minhas habilidades de contribuição para o sucesso da empresa que me contratar.
 <br>
 <br>
-Utilizo a Play Store como meu portfólio, onde você pode encontrar alguns dos meus projetos mais recentes de desenvolvimento de aplicativos móveis. Além disso, mantenho projetos relacionados ao React Native em meu GitHub: https://github.com/leonardoferreiramiranda.
+Utilizo a Play Store como meu portfólio, onde você pode encontrar alguns dos meus projetos mais recentes de desenvolvimento de aplicativos móveis.
 <br>
 <br>
 Se você está procurando por um profissional dedicado e apaixonado por tecnologia, com habilidades em React Native, entre em contato comigo! Estou sempre disposto a descobrir novos desafios e contribuir para o sucesso da sua empresa.
